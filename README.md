@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmitZore
 - 👀 I’m interested in Data Analyst, Business intelligence 
 - 🌱 I’m currently learning Data Analyst
-- 📫 How to reach me dm me on twitter @AZX&Official
+- 📫 How to reach me dm me on twitter @AZX7Official
 
 <!---
 AmitZore/AmitZore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
